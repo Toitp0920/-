@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616018744 source:d:\programming\c\hw13final_g_answer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
