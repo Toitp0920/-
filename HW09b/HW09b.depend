@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1613740301 source:d:\programming\c\hw09b\main.c
+	<stdio.h>
+	<string.h>
+	"function.h"
+
+1613739389 d:\programming\c\hw09b\function.h
+
+1613749438 source:d:\programming\c\hw09b\funcion.c
+
