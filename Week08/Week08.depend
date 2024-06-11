@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611826704 source:d:\programming\c\week08\main.c
+	<stdio.h>
+
+1611824639 d:\programming\c\week08\car.h
+	<stdio.h>
+
