@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1611254503 source:d:\programming\c\week05_4\main.c
+	<stdio.h>
+	<ctype.h>
+
+1614498109 source:d:\programming\c\week05_4_getchar&putcharµÄÊ¹ÓÃ\main.c
+	<stdio.h>
+	<ctype.h>
+
+1614498109 source:d:\programming\c\week05_4_getchar&putcharªº¨Ï¥Î\main.c
+	<stdio.h>
+	<ctype.h>
+
