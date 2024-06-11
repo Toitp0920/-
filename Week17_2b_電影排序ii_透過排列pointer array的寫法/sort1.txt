@@ -1,0 +1,250 @@
+  1: 8.900000	12 Angry Men	(1957)	218210
+  2: 8.300000	2001: A Space Odyssey	(1968)	236745
+  3: 8.000000	3 Idiots	(2009)	53751
+  4: 8.000000	8 1/2	(1963)	46842
+  5: 8.000000	A Beautiful Mind	(2001)	274742
+  6: 8.400000	A Clockwork Orange	(1971)	303726
+  7: 8.000000	A Fistful of Dollars	(1964)	66424
+  8: 8.300000	A Separation	(2011)	72272
+  9: 8.000000	A Streetcar Named Desire	(1951)	52139
+ 10: 8.500000	Alien	(1979)	304705
+ 11: 8.400000	Aliens	(1986)	276958
+ 12: 8.300000	All About Eve	(1950)	50019
+ 13: 8.000000	All Quiet on the Western Front	(1930)	32879
+ 14: 8.300000	Amadeus	(1984)	155279
+ 15: 8.400000	Amelie	(2001)	299245
+ 16: 8.400000	American Beauty	(1999)	471138
+ 17: 8.500000	American History X	(1998)	408816
+ 18: 8.100000	Amores Perros	(2000)	103399
+ 19: 8.000000	Anatomy of a Murder	(1959)	26750
+ 20: 8.100000	Annie Hall	(1977)	107196
+ 21: 8.500000	Apocalypse Now	(1979)	264643
+ 22: 8.000000	Argo	(2012)	54673
+ 23: 8.500000	Back to the Future	(1985)	357858
+ 24: 8.000000	Barry Lyndon	(1975)	59708
+ 25: 8.300000	Batman Begins	(2005)	506879
+ 26: 8.000000	Battleship Potemkin	(1925)	25694
+ 27: 8.000000	Beauty and the Beast	(1991)	153162
+ 28: 8.100000	Ben-Hur	(1959)	91135
+ 29: 8.300000	Bicycle Thieves	(1948)	47769
+ 30: 8.000000	Big Fish	(2003)	239428
+ 31: 8.100000	Black Swan	(2010)	302250
+ 32: 8.200000	Blade Runner	(1982)	282589
+ 33: 8.300000	Braveheart	(1995)	405262
+ 34: 8.000000	Bringing Up Baby	(1938)	31518
+ 35: 8.100000	Butch Cassidy and the Sundance Kid	(1969)	88358
+ 36: 8.600000	Casablanca	(1942)	242690
+ 37: 8.100000	Casino	(1995)	182657
+ 38: 8.000000	Castle in the Sky	(1986)	44330
+ 39: 8.300000	Chinatown	(1974)	125134
+ 40: 8.300000	Cinema Paradiso	(1988)	77118
+ 41: 8.500000	Citizen Kane	(1941)	191568
+ 42: 8.500000	City Lights	(1931)	51866
+ 43: 8.700000	City of God	(2002)	291352
+ 44: 8.200000	Cool Hand Luke	(1967)	72547
+ 45: 8.400000	Das Boot	(1981)	102490
+ 46: 8.100000	Dial M for Murder	(1954)	53899
+ 47: 8.300000	Die Hard	(1988)	329043
+ 48: 8.000000	District 9	(2009)	314450
+ 49: 8.400000	Django Unchained	(2012)	29427
+ 50: 8.100000	Dog Day Afternoon	(1975)	106016
+ 51: 8.100000	Donnie Darko	(2001)	342148
+ 52: 8.400000	Double Indemnity	(1944)	56996
+ 53: 8.300000	Downfall	(2004)	141619
+ 54: 8.500000	Dr. Strangelove or: How I Learned to Stop Worrying and Love the ¬	(1964)	219523
+ 55: 8.400000	Eternal Sunshine of the Spotless Mind	(2004)	369445
+ 56: 8.200000	Fargo	(1996)	246306
+ 57: 8.800000	Fight Club	(1999)	676591
+ 58: 8.100000	Finding Nemo	(2003)	331224
+ 59: 8.300000	For a Few Dollars More	(1965)	79236
+ 60: 8.700000	Forrest Gump	(1994)	577662
+ 61: 8.300000	Full Metal Jacket	(1987)	257765
+ 62: 8.100000	Gandhi	(1982)	90408
+ 63: 8.400000	Gladiator	(2000)	499247
+ 64: 8.100000	Gone with the Wind	(1939)	127206
+ 65: 8.100000	Good Will Hunting	(1997)	288884
+ 66: 8.700000	Goodfellas	(1990)	389929
+ 67: 8.200000	Gran Torino	(2008)	292495
+ 68: 8.300000	Grave of the Fireflies	(1988)	61882
+ 69: 8.100000	Groundhog Day	(1993)	238053
+ 70: 8.000000	Harry Potter and the Deathly Hallows: Part 2	(2011)	237039
+ 71: 8.000000	Harvey	(1950)	32397
+ 72: 8.200000	Heat	(1995)	247910
+ 73: 8.100000	High Noon	(1952)	49357
+ 74: 8.100000	Hotel Rwanda	(2004)	153199
+ 75: 8.100000	How to Train Your Dragon	(2010)	190411
+ 76: 8.100000	Howl's Moving Castle	(2004)	97461
+ 77: 8.000000	In the Heat of the Night	(1967)	32297
+ 78: 8.000000	In the Name of the Father	(1993)	49923
+ 79: 8.000000	Incendies	(2010)	25250
+ 80: 8.700000	Inception	(2010)	683977
+ 81: 8.300000	Indiana Jones and the Last Crusade	(1989)	285021
+ 82: 8.000000	Infernal Affairs	(2002)	54722
+ 83: 8.200000	Inglourious Basterds	(2009)	397729
+ 84: 8.100000	Into the Wild	(2007)	211412
+ 85: 8.000000	Ip Man	(2008)	64060
+ 86: 8.200000	It Happened One Night	(1934)	37336
+ 87: 8.600000	It's a Wonderful Life	(1946)	157200
+ 88: 8.100000	Jaws	(1975)	224644
+ 89: 8.000000	Jurassic Park	(1993)	270725
+ 90: 8.100000	Kill Bill: Vol. 1	(2003)	395124
+ 91: 8.300000	L.A. Confidential	(1997)	252976
+ 92: 8.000000	La Haine	(1995)	51327
+ 93: 8.000000	La strada	(1954)	27658
+ 94: 8.400000	Lawrence of Arabia	(1962)	113618
+ 95: 8.600000	Leon: The Professional	(1994)	377976
+ 96: 8.400000	Life Is Beautiful	(1997)	193440
+ 97: 8.100000	Life of Brian	(1979)	155944
+ 98: 8.100000	Life of Pi	(2012)	50524
+ 99: 8.100000	Lock Stock and Two Smoking Barrels	(1998)	231658
+100: 8.400000	M	(1931)	59782
+101: 8.000000	Manhattan	(1979)	64927
+102: 8.100000	Mary and Max	(2009)	52704
+103: 8.500000	Memento	(2000)	470746
+104: 8.300000	Metropolis	(1927)	64000
+105: 8.100000	Million Dollar Baby	(2004)	253168
+106: 8.500000	Modern Times	(1936)	65357
+107: 8.000000	Monsters Inc.	(2001)	259038
+108: 8.300000	Monty Python and the Holy Grail	(1975)	230780
+109: 8.300000	Mr. Smith Goes to Washington	(1939)	47849
+110: 8.100000	My Neighbor Totoro	(1988)	69008
+111: 8.000000	Mystic River	(2003)	213423
+112: 8.000000	Nausicaa of the Valley of the Wind	(1984)	42834
+113: 8.100000	Network	(1976)	59011
+114: 8.200000	No Country for Old Men	(2007)	335625
+115: 8.500000	North by Northwest	(1959)	134130
+116: 8.000000	Nosferatu	(1922)	45552
+117: 8.100000	Notorious	(1946)	45348
+118: 8.300000	Oldboy	(2003)	178717
+119: 8.200000	On the Waterfront	(1954)	59811
+120: 8.300000	Once Upon a Time in America	(1984)	122706
+121: 8.600000	Once Upon a Time in the West	(1968)	123746
+122: 8.800000	One Flew Over the Cuckoo's Nest	(1975)	371313
+123: 8.300000	Pan's Labyrinth	(2006)	264185
+124: 8.000000	Papillon	(1973)	49421
+125: 8.400000	Paths of Glory	(1957)	67923
+126: 8.100000	Persona	(1966)	30068
+127: 8.000000	Pirates of the Caribbean: The Curse of the Black Pearl	(2003)	432415
+128: 8.100000	Platoon	(1986)	173497
+129: 8.300000	Princess Mononoke	(1997)	113031
+130: 8.600000	Psycho	(1960)	227433
+131: 8.900000	Pulp Fiction	(1994)	689721
+132: 8.300000	Raging Bull	(1980)	138318
+133: 8.600000	Raiders of the Lost Ark	(1981)	378747
+134: 8.000000	Rain Man	(1988)	217034
+135: 8.200000	Ran	(1985)	48441
+136: 8.300000	Rashomon	(1950)	59698
+137: 8.000000	Ratatouille	(2007)	257735
+138: 8.600000	Rear Window	(1954)	182337
+139: 8.200000	Rebecca	(1940)	52404
+140: 8.400000	Requiem for a Dream	(2000)	319135
+141: 8.400000	Reservoir Dogs	(1992)	347654
+142: 8.000000	Rocky	(1976)	182140
+143: 8.000000	Roman Holiday	(1953)	52753
+144: 8.000000	Rope	(1948)	54507
+145: 8.000000	Rosemary's Baby	(1968)	87176
+146: 8.500000	Saving Private Ryan	(1998)	456808
+147: 8.200000	Scarface	(1983)	283816
+148: 8.900000	Schindler's List	(1993)	457874
+149: 8.600000	Se7en	(1995)	516269
+150: 8.700000	Seven Samurai	(1954)	141490
+151: 8.000000	Shadow of a Doubt	(1943)	30753
+152: 8.000000	Shutter Island	(2010)	342460
+153: 8.200000	Sin City	(2005)	397790
+154: 8.300000	Singin' in the Rain	(1952)	85274
+155: 8.000000	Sleuth	(1972)	25837
+156: 8.000000	Slumdog Millionaire	(2008)	350603
+157: 8.300000	Snatch	(2000)	324437
+158: 8.300000	Some Like It Hot	(1959)	103298
+159: 8.500000	Spirited Away	(2001)	198272
+160: 8.000000	Spring Summer Fall Winter... and Spring	(2003)	34624
+161: 8.000000	Stalag 17	(1953)	29063
+162: 8.000000	Stalker	(1979)	36527
+163: 8.100000	Stand by Me	(1986)	151808
+164: 8.000000	Star Trek	(2009)	274134
+165: 8.700000	Star Wars	(1977)	495690
+166: 8.800000	Star Wars: Episode V - The Empire Strikes Back	(1980)	441832
+167: 8.300000	Star Wars: Episode VI - Return of the Jedi	(1983)	345099
+168: 8.200000	Strangers on a Train	(1951)	54354
+169: 8.600000	Sunset Blvd.	(1950)	82667
+170: 8.400000	Taxi Driver	(1976)	270785
+171: 8.500000	Terminator 2: Judgment Day	(1991)	406199
+172: 8.100000	The 400 Blows	(1959)	38911
+173: 8.300000	The Apartment	(1960)	59858
+174: 8.000000	The Artist	(2011)	101525
+175: 8.200000	The Avengers	(2012)	430644
+176: 8.200000	The Big Lebowski	(1998)	292563
+177: 8.100000	The Big Sleep	(1946)	41164
+178: 8.100000	The Bourne Ultimatum	(2007)	271815
+179: 8.300000	The Bridge on the River Kwai	(1957)	88727
+180: 8.900000	The Dark Knight	(2008)	868257
+181: 8.500000	The Dark Knight Rises	(2012)	503125
+182: 8.200000	The Deer Hunter	(1978)	139123
+183: 8.400000	The Departed	(2006)	451801
+184: 8.000000	The Diving Bell and the Butterfly	(2007)	58010
+185: 8.200000	The Elephant Man	(1980)	94770
+186: 8.000000	The Exorcist	(1973)	180777
+187: 8.200000	The General	(1926)	29988
+188: 9.200000	The Godfather	(1972)	641587
+189: 9.000000	The Godfather: Part II	(1974)	411870
+190: 8.200000	The Gold Rush	(1925)	34974
+191: 8.900000	The Good the Bad and the Ugly	(1966)	271610
+192: 8.100000	The Graduate	(1967)	127170
+193: 8.100000	The Grapes of Wrath	(1940)	36040
+194: 8.400000	The Great Dictator	(1940)	64504
+195: 8.300000	The Great Escape	(1963)	95092
+196: 8.400000	The Green Mile	(1999)	367091
+197: 8.200000	The Hobbit: An Unexpected Journey	(2012)	160626
+198: 8.000000	The Hustler	(1961)	37663
+199: 8.400000	The Intouchables	(2011)	128685
+200: 8.200000	The Kid	(1921)	28411
+201: 8.100000	The Killing	(1956)	38289
+202: 8.100000	The King's Speech	(2010)	225876
+203: 8.300000	The Lion King	(1994)	293684
+204: 8.400000	The Lives of Others	(2006)	139104
+205: 8.800000	The Lord of the Rings: The Fellowship of the Ring	(2001)	658729
+206: 8.800000	The Lord of the Rings: The Return of the King	(2003)	633778
+207: 8.700000	The Lord of the Rings: The Two Towers	(2002)	568697
+208: 8.200000	The Maltese Falcon	(1941)	71342
+209: 8.000000	The Man Who Shot Liberty Valance	(1962)	33984
+210: 8.000000	The Manchurian Candidate	(1962)	47598
+211: 8.700000	The Matrix	(1999)	645828
+212: 8.100000	The Night of the Hunter	(1955)	38564
+213: 8.000000	The Perks of Being a Wallflower	(2012)	34784
+214: 8.400000	The Pianist	(2002)	243203
+215: 8.400000	The Prestige	(2006)	406277
+216: 8.000000	The Princess Bride	(1987)	179274
+217: 8.100000	The Secret in Their Eyes	(2009)	59162
+218: 8.200000	The Seventh Seal	(1957)	63234
+219: 9.200000	The Shawshank Redemption	(1994)	885806
+220: 8.500000	The Shining	(1980)	315031
+221: 8.600000	The Silence of the Lambs	(1991)	432701
+222: 8.100000	The Sixth Sense	(1999)	401713
+223: 8.300000	The Sting	(1973)	100651
+224: 8.100000	The Terminator	(1984)	317777
+225: 8.100000	The Thing	(1982)	148507
+226: 8.400000	The Third Man	(1949)	71287
+227: 8.400000	The Treasure of the Sierra Madre	(1948)	48152
+228: 8.000000	The Truman Show	(1998)	319291
+229: 8.000000	The Untouchables	(1987)	136957
+230: 8.600000	The Usual Suspects	(1995)	412585
+231: 8.000000	The Wild Bunch	(1969)	44593
+232: 8.100000	The Wizard of Oz	(1939)	161687
+233: 8.000000	The Wrestler	(2008)	177731
+234: 8.100000	There Will Be Blood	(2007)	212426
+235: 8.400000	To Kill a Mockingbird	(1962)	123781
+236: 8.200000	Touch of Evil	(1958)	46225
+237: 8.200000	Toy Story	(1995)	300945
+238: 8.400000	Toy Story 3	(2010)	260347
+239: 8.100000	Trainspotting	(1996)	257885
+240: 8.100000	Twelve Monkeys	(1995)	269664
+241: 8.300000	Unforgiven	(1992)	161865
+242: 8.200000	Up	(2009)	294891
+243: 8.100000	V for Vendetta	(2005)	421171
+244: 8.500000	Vertigo	(1958)	138869
+245: 8.400000	WALL¡PE	(2008)	354867
+246: 8.100000	Warrior	(2011)	143614
+247: 8.000000	Who's Afraid of Virginia Woolf?	(1966)	32250
+248: 8.200000	Wild Strawberries	(1957)	35219
+249: 8.300000	Witness for the Prosecution	(1957)	29925
+250: 8.300000	Yojimbo	(1961)	43346

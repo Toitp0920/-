@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1615118552 source:d:\programming\c\week15_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"console_draw.h"
+	"kb_input.h"
+
+1615109842 d:\programming\c\week15_1\console_draw.h
+	<windows.h>
+
+1615109847 d:\programming\c\week15_1\kb_input.h
+	<windows.h>
+
+1615109839 source:d:\programming\c\week15_1\console_draw.c
+	"console_draw.h"
+
+1615109845 source:d:\programming\c\week15_1\kb_input.c
+	"kb_input.h"
+

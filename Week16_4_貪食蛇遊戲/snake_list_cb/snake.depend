@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1231335102 source:c:\users\htchen\desktop\i2p12\term\term_examples\snake\snake\console_draw2.c
+	"console_draw2.h"
+
+1231143510 c:\users\htchen\desktop\i2p12\term\term_examples\snake\snake\console_draw2.h
+	<windows.h>
+
+1197485698 source:c:\users\htchen\desktop\i2p12\term\term_examples\snake\snake\kb_input2.c
+	"kb_input2.h"
+
+1197486290 c:\users\htchen\desktop\i2p12\term\term_examples\snake\snake\kb_input2.h
+	<windows.h>
+
+1355976320 source:c:\users\htchen\desktop\i2p12\term\term_examples\snake\snake\snake.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw2.h"
+	"kb_input2.h"
+
+1260885116 c:\users\htchen\desktop\i2p12\term\term_examples\snake\snake\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1260887888 source:c:\users\htchen\desktop\i2p12\term\term_examples\snake\snake\audio.c
+	"audio.h"
+
+1260887888 source:c:\users\htchen\desktop\i2p12\code\i2p12_hw12\snake_list_cb\audio.c
+	"audio.h"
+
+1260885116 c:\users\htchen\desktop\i2p12\code\i2p12_hw12\snake_list_cb\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1231335102 source:c:\users\htchen\desktop\i2p12\code\i2p12_hw12\snake_list_cb\console_draw2.c
+	"console_draw2.h"
+
+1231143510 c:\users\htchen\desktop\i2p12\code\i2p12_hw12\snake_list_cb\console_draw2.h
+	<windows.h>
+
+1197485698 source:c:\users\htchen\desktop\i2p12\code\i2p12_hw12\snake_list_cb\kb_input2.c
+	"kb_input2.h"
+
+1197486290 c:\users\htchen\desktop\i2p12\code\i2p12_hw12\snake_list_cb\kb_input2.h
+	<windows.h>
+
+1356427323 source:c:\users\htchen\desktop\i2p12\code\i2p12_hw12\snake_list_cb\snake.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw2.h"
+	"kb_input2.h"
+
+1260887888 source:d:\i2p2013\code\i2p12_hw12_sol\snake_list_cb\audio.c
+	"audio.h"
+
+1260885116 d:\i2p2013\code\i2p12_hw12_sol\snake_list_cb\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1231335102 source:d:\i2p2013\code\i2p12_hw12_sol\snake_list_cb\console_draw2.c
+	"console_draw2.h"
+
+1231143510 d:\i2p2013\code\i2p12_hw12_sol\snake_list_cb\console_draw2.h
+	<windows.h>
+
+1197485698 source:d:\i2p2013\code\i2p12_hw12_sol\snake_list_cb\kb_input2.c
+	"kb_input2.h"
+
+1197486290 d:\i2p2013\code\i2p12_hw12_sol\snake_list_cb\kb_input2.h
+	<windows.h>
+
+1356593024 source:d:\i2p2013\code\i2p12_hw12_sol\snake_list_cb\snake.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw2.h"
+	"kb_input2.h"
+
+1388339790 source:d:\i2p2013\lecture_code\snake_list\snake_list_cb\audio.c
+	"audio.h"
+
+1260885116 d:\i2p2013\lecture_code\snake_list\snake_list_cb\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1231335102 source:d:\i2p2013\lecture_code\snake_list\snake_list_cb\console_draw2.c
+	"console_draw2.h"
+
+1231143510 d:\i2p2013\lecture_code\snake_list\snake_list_cb\console_draw2.h
+	<windows.h>
+
+1197485698 source:d:\i2p2013\lecture_code\snake_list\snake_list_cb\kb_input2.c
+	"kb_input2.h"
+
+1197486290 d:\i2p2013\lecture_code\snake_list\snake_list_cb\kb_input2.h
+	<windows.h>
+
+1388339792 source:d:\i2p2013\lecture_code\snake_list\snake_list_cb\snake.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw2.h"
+	"kb_input2.h"
+
