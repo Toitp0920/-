@@ -1,6 +1,6 @@
 #include <stdio.h>
 //10770 - Coordinate Format
-//³o¬O¦Ñ®vªº¼gªk
+//é€™æ˜¯è€å¸«çš„å¯«æ³•
 int main(void)
 {
 	int m, n, i, x;
