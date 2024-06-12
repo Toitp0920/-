@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-//”»Ğ—A“ü“I?‹ø¥”Û?âi
+//åˆ¤æ–·è¼¸å…¥çš„å­—ä¸²æ˜¯å¦å°ç¨±
 int main()
 {
         char str[1000];
@@ -20,7 +20,7 @@ int main()
                 }
                 else
                         break;
-                        //”@‰Ê?âiC‘¥•s˜ğ”íbreakC‘¥i>j(‹ôÉŒÂ?)or i=j(ŠïÉŒÂ?)
+                        //å¦‚æœå°ç¨±ï¼Œå‰‡ä¸æœƒè¢«breakï¼Œå‰‡i>j(å¶æ•¸å€‹å­—)or i=j(å¥‡æ•¸å€‹å­—)
         }
         if (i<j)
                 printf("Not a palindrome.\n");
