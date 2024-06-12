@@ -1,5 +1,5 @@
 //10769 - Two-dimensional array rotation
-//³o¬O¦Ñ®vªº¼gªk
+//é€™æ˜¯è€å¸«çš„å¯«æ³•
 #include <stdio.h>
 
 int main(void)
