@@ -1,5 +1,5 @@
 //10772 - The number of occurrences
-//³o¬O¦Ñ®vªº¼gªk
+//é€™æ˜¯è€å¸«çš„å¯«æ³•
 
 #include <stdio.h>
 #include <string.h>
