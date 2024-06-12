@@ -1,6 +1,6 @@
 #include <stdio.h>
 //10768 - wave
-//³o¬O§Úªº¼gªk(2/4)
+//é€™æ˜¯æˆ‘çš„å¯«æ³•(2/4)
 int main()
 {
         char c;
