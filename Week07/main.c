@@ -19,7 +19,7 @@ Each of the next R lines contains C integers, specifying the elements of the two
 Output
 The output contains two integers:  the location difference and the value difference of the maximum and minimum elements, separated by a space.
 
-Note that you do not need to print ¡¥\n¡¦ at the end of line.
+Note that you do not need to print â€˜\nâ€™ at the end of line.
 
 
 Sample Input
@@ -41,7 +41,7 @@ i=0   0     1      2      3
 i=1   4     5      6      7
 i=2   8     9     10    11
 */
-//³o¬O§Ú¦Û¤v¼gªº
+//é€™æ˜¯æˆ‘è‡ªå·±å¯«çš„
 int main()
 {
         int i, m, n, x;
