@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-//Q“Å’·“I›”âiš‹ø—Ao
+//æ‰¾åˆ°æœ€é•·çš„å°ç¨±å­—ä¸²è¼¸å‡º
 int main()
 {
     char str[1000];
