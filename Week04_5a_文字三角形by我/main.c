@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-//³o¬O§Ú¼gªº¤å¦r¤T¨¤§Î
+//é€™æ˜¯æˆ‘å¯«çš„æ–‡å­—ä¸‰è§’å½¢
 int main()
 {
     int i , j;
