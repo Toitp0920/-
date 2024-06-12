@@ -1,6 +1,6 @@
 #include <stdio.h>
 //10768 - wave
-//³o¬O¦Ñ®vªº¼gªk
+//é€™æ˜¯è€å¸«çš„å¯«æ³•
 void triangle(char ch, int L)
 {
         int i, j;
