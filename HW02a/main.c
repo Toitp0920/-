@@ -4,9 +4,9 @@ int main()
     int x;
     scanf("%d", &x);
     int y;
-    y= x/100 + ((x/10)%10)*10 + (x%10)*100;     // (x/100)穦眔xκ计((x/10)%10)穦眔x计(x%10)穦眔x计
+    y= x/100 + ((x/10)%10)*10 + (x%10)*100;     // (x/100)鏈冨緱鍒皒鐨勭櫨浣嶆暩瀛楋紝((x/10)%10)鏈冨緱鍒皒鐨勫崄浣嶆暩瀛楋紝(x%10)鏈冨緱鍒皒鐨勫�嬩綅鏁稿瓧
 
-    double z;       // и祇瞷钩ぃ钡ノprintf("%f", (x+y)/2); x , y常琌intprintf柑иノ%f穦岿┮穝承跑计z
+    double z;       // 鎴戠櫦鐝惧ソ鍍忎笉鑳界洿鎺ョ敤printf("%f", (x+y)/2); 锛屽洜鐐簒 , y閮芥槸int锛屼絾printf瑁￠潰鎴戠敤%f锛屾渻鍑洪尟锛屾墍浠ユ柊鍓典簡涓�鍊嬭畩鏁竮
     z =x+y;
  //   printf("%d", z);
     printf("%.1lf", z/2);
